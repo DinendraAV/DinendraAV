@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an aerospace engineer with a Master’s in Aer
 - 🏊 A professional swimmer, and I play recreational badminton and cricket.
   
 ### 🛠 Skills
-- **Technical Skills:** Solidworks, Catia, AutoCAD, Fusion 360, Siemens NX CAD, ANSYS, ABAQUS, MATLAB, Simulink
+- **Technical Skills:** Solidworks, Catia, AutoCAD, Fusion 360, Siemens NX CAD, ANSYS, ABAQUS, MATLAB, Simulink, Beginner in Hypermesh
 - **Languages:** English (Bilingual), French (A2), Italian (A1), Tamil (Native)
 - **Soft Skills:** Team player, strong communication, multitasking
 
