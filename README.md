@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an aerospace engineer with a Master’s in Aer
 - 🌍 Based in Chennai, India
 - 🎓 Master's in Aerospace Technology, Politecnico di Milano
 - 🎓 Bachelor’s in Mechanical Engineering, Coimbatore Institute of Technology
-- 👨‍💻 Currently seeking my first full-time role as a **Mechanical CAD Design Engineer**, **Calculation Engineer**, or **Stress Engineer**
+- 👨‍💻 Currently seeking my first full-time role as a **Mechanical Design Engineer**, **Calculation Engineer**, or **Stress Engineer**
 - 🏊 A professional swimmer, and I play recreational badminton and cricket.
   
 ### 🛠 Skills
