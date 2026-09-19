@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Dinendra Arcot Viswanath
+# 👋 Hello, I'm Dinendra
 
-🚀 Aspiring Aerospace Engineer | CAD & FEM Enthusiast | Composite Materials | Nature Explorer
+🚀 Aerospace Structural Analysis Engineer | FEA Analysis | Composite Materials and Damage Modelling | Nature Explorer
 
-Welcome to my GitHub profile! I'm an aerospace engineer with a Master’s in Aerospace Technology and a Bachelor’s in Mechanical Engineering. My focus areas include **CAD design**, **FEM analysis**, **composite materials**, **structural calculation**, and **thermal analysis**.
+Welcome to my GitHub profile! I'm an aerospace engineer with a Master’s in Aerospace Technology and a Bachelor’s in Mechanical Engineering. My focus areas include **CAD design**, **FEM analysis**, **composite materials**, **structural design and analysis**, and **thermal analysis**.
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm an aerospace engineer with a Master’s in Aer
 - Advanced FEM Analysis techniques
 - Perfecting my French and Italian
 ### 📫 Let's Connect
-- 📧 dinendra731@gmail.com
+- 📧 dinendra.arcotviswanath@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dinendra-av/)
 
 ---
